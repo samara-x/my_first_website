@@ -17,7 +17,7 @@
     font-size:16px;
     font-family: 'Inter', sans-serif;
     color: var(--black);
-    scroll-behaviour: smooth;
+    scroll-behavior: smooth;
  }
 
  *,
@@ -124,12 +124,12 @@
  
  /* .hero */
  .hero {
-    background-color: var(--brand);
-    padding: 56 px 16px;
-    border-radius: 10px;
-    margin: 5px 10px;
-}
-
+   background-color: var(--brand);
+   padding: 56px 16px;
+   border-radius: 10px;
+   margin: 5px 10px;
+ }
+ 
  .hero h1 {
    font-size: 2rem;
    margin-bottom: 24px;
@@ -139,7 +139,7 @@
  .hero .hero-accent {
    color: var(--action);
  }
-
+ 
 article {
    padding: 32px 16px;
    background-color: var(--base-light);
